@@ -1,4 +1,5 @@
-![](https://www.pinclipart.com/picdir/middle/91-918525_react-logos-download-green-tree-logo-tree-logo.png)
+<img src="https://www.xpand-it.com/wp-content/uploads/2018/01/React_logo_wordmark.png?W=200" height="150">
+
 # Bootcamp GoStack ReactJS - **CHALLENGE**
 ## __Fase 01__
 
