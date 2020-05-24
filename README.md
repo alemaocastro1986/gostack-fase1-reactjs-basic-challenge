@@ -1,3 +1,4 @@
+![](https://www.pinclipart.com/picdir/middle/91-918525_react-logos-download-green-tree-logo-tree-logo.png)
 # Bootcamp GoStack ReactJS - **CHALLENGE**
 ## __Fase 01__
 
@@ -13,4 +14,4 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 - Remover um repositório da sua API: Para cada item da sua lista, deve possuir um botão com o texto Remover que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
-mais informações em [Rocketseat Desafio NodeJS fase 1](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
+mais informações em [Rocketseat Desafio ReactJS fase 1](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
