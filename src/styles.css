@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+div {
+  width: 100%;
+  margin: 20px;
+  max-width: 800px;
+}
+
+div li {
+  display: flex;
+  align-items: center;
+}
+
+div li + li {
+  margin-top: 15px;
+}
+
+button {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div li button {
+  margin: 0 15px;
+  background: #ca4949;
+}
+
+.repository-header{
+  display: flex ;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+}
+
+.repository-header button {
+  background: none;
+  color: #7159c1;
+  font-size: 20px;
+}
+
+.repository-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.repository-info strong {
+  color: #7159c1;
+  font-size: 24px;
+  width: 90%;
+}
+
+.repository-info small {
+  color: #999;
+  margin-left: 5px;
+ 
+}
+
+.repository-info hr {
+  border: 1px solid #7159c1;
+  margin: 2px 0px 5px 0px;
+}
+
+.repository-info div span {
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 12px;
+  padding: 5px;
+  background: #55d561;
+  color: #fff;
+  border-radius: 4px;
+}
+.repository-info > div {
+  margin: 0;
+  margin-top: 10px;
+}
